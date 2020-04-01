@@ -269,7 +269,7 @@ bool STOP_SERVICE(std::wstring lpServiceName)
 		}
 		else
 		{
-			if (GetLastError() == ERROR_SERVICE_REQUEST_TIMEOUT);//Можно написать исключение о таймауте	}
+			//if (GetLastError() == ERROR_SERVICE_REQUEST_TIMEOUT);//Можно написать исключение о таймауте или о невозможности закрытия}
 			return 0;
 		}
 	}
