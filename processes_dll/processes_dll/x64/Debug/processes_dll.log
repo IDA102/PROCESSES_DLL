@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  dllmain.cpp
+  processes_dll.cpp
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(18): warning C4273: out_test: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(22): note: см. предыдущее определение "out_test"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(26): warning C4273: get_BD_processes: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(23): note: см. предыдущее определение "get_BD_processes"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(90): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(90): error C2065: nop: необъявленный идентификатор
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(91): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(123): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(164): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(164): error C2065: nop: необъявленный идентификатор
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(165): error C2143: синтаксическая ошибка: отсутствие ";" перед "return"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(178): warning C4273: START_SERVICE: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(24): note: см. предыдущее определение "START_SERVICE"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(231): warning C4273: STOP_SERVICE: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(25): note: см. предыдущее определение "STOP_SERVICE"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(272): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(292): warning C4273: RESTART_SERVICE: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(26): note: см. предыдущее определение "RESTART_SERVICE"
+  Создание кода...
