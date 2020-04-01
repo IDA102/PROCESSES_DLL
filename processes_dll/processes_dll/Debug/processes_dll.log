@@ -1,0 +1,15 @@
+﻿  dllmain.cpp
+  processes_dll.cpp
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(18): warning C4273: out_test: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(22): note: см. предыдущее определение "out_test"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(26): warning C4273: get_BD_processes: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(23): note: см. предыдущее определение "get_BD_processes"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(178): warning C4273: START_SERVICE: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(24): note: см. предыдущее определение "START_SERVICE"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(231): warning C4273: STOP_SERVICE: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(25): note: см. предыдущее определение "STOP_SERVICE"
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(272): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.cpp(292): warning C4273: RESTART_SERVICE: несовместимая компоновка dll
+  d:\projectsworks\visualstudio\processes_dll\processes_dll\processes_dll\processes_dll.h(26): note: см. предыдущее определение "RESTART_SERVICE"
+  Создание кода...
+  processes_dll.vcxproj -> D:\ProjectsWorks\VisualStudio\PROCESSES_DLL\processes_dll\Debug\processes_dll.dll
